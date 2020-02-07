@@ -1,3 +1,5 @@
+package com.aswa2ds.niuke;
+
 import java.util.Stack;
 
 public class NiukeStackImplQueue {

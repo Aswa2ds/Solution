@@ -1,3 +1,5 @@
+package com.aswa2ds.niuke;
+
 public class NiukeJumpFloorII {
     public int JumpFloorII(int target) {
         if(target == 0) {

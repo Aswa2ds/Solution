@@ -1,3 +1,5 @@
+package com.aswa2ds.niuke;
+
 /**
  * @author aswa2ds
  */

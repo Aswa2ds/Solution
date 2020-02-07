@@ -1,3 +1,5 @@
+package com.aswa2ds.niuke;
+
 import java.util.ArrayList;
 
 class ListNode {

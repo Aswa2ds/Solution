@@ -1,3 +1,5 @@
+package com.aswa2ds.niuke;
+
 class TreeNode {
     int val;
     TreeNode left;
